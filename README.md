@@ -18,7 +18,7 @@ I am Currently working On Genex Infosys as a Software Engineer.
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/shahriar-ratul/shahriar-ratul/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/shahriar-ratul/shahriar-ratul/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Any freelance work? Do reach, [email](mailto:ratul794@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
