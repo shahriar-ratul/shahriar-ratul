@@ -11,7 +11,7 @@
 
 Hi, I'm Atik Shahriar Ratul, a Full Stack web developer and a freelance software engineer from Bangladesh.My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am Currently working On Genex Infosys as a Software Engineer.
+I am Currently working On SquareFeet Platfrom Ltd as a Senior Software Engineer.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
