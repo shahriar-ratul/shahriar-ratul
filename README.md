@@ -2,7 +2,7 @@
 ### Hey there 
 
 <a href="https://www.linkedin.com/in/shahriar-ratul/">
-  <img align="left" alt="Shahriar Ratul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Shahriar Ratul's LinkedIN" width="22px" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-3.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=shahriar-ratul)
