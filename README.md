@@ -5,7 +5,7 @@
   <img align="left" alt="Shahriar Ratul's LinkedIN" width="22px" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-3.png" />
 </a>
 <a href="https://sratul.com">
-  <img align="left" alt="Shahriar Ratul's" width="22px" src="https://cdn-icons-png.flaticon.com/512/726/726056.png" />
+  <img align="left" alt="Shahriar Ratul's" width="22px" src="https://cdn-icons-png.flaticon.com/128/10856/10856864.png" />
 </a>
 
 
