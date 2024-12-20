@@ -14,7 +14,7 @@
 
 <br />
 
-Hello, I'm Atik Shahriar Ratul. I'm a Software Engineer with 5+ years of experience. I enjoy managing complex applications and environments.I enjoy building apps and sites .My focus is of Frontend in on React (Nextjs) Backend Nodejs(Nestjs).
+Hello, I'm Atik Shahriar Ratul. I'm a Software Engineer with 6+ years of experience. I enjoy managing complex applications and environments.I enjoy building apps and sites .My focus is of Frontend in on React (Nextjs) Backend Nodejs(Nestjs).
 
 I am Currently working On SquareFeet Platfrom Ltd as a Senior Software Engineer.
 
@@ -29,8 +29,8 @@ I am Currently working On SquareFeet Platfrom Ltd as a Senior Software Engineer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="20" src="https://camo.githubusercontent.com/4b0000b8e7a6449a924fe0212093b9f3936ef80cc8fdfbb770baad58f58b8c2c/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667"></code> 
 
 
 📈 My GitHub Stats
