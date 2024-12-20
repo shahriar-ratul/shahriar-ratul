@@ -17,7 +17,7 @@ I am Currently working On SquareFeet Platfrom Ltd as a Senior Software Engineer.
 
   <img align="right" alt="GIF" src="https://github.com/shahriar-ratul/shahriar-ratul/blob/main/code.gif?raw=true" width="500" height="320" />
   
-- 💼 Feel free to reach me at [email](mailto:ratul794@gmail.com) :)
+- 💼 Feel free to reach me at [email](mailto:ratul794@gmail.com)
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
