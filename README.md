@@ -9,9 +9,6 @@
 </a>
 
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=shahriar-ratul)
-
 <br />
 
 Hello, I'm Atik Shahriar Ratul. I'm a Software Engineer with 6+ years of experience. I enjoy managing complex applications and environments.I enjoy building apps and sites .My focus is of Frontend in on React (Nextjs) Backend Nodejs(Nestjs).
