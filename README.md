@@ -13,7 +13,7 @@
 
 Hello, I'm Atik Shahriar Ratul. I'm a Software Engineer with 6+ years of experience. I enjoy managing complex applications and environments.I enjoy building apps and sites .My focus is of Frontend in on React (Nextjs) Backend Nodejs(Nestjs).
 
-I am Currently working On SquareFeet Platfrom Ltd as a Senior Software Engineer.
+I am Currently working On Maybank as a Senior Full stack Engineer.
 
   <img align="right" alt="GIF" src="https://github.com/shahriar-ratul/shahriar-ratul/blob/main/code.gif?raw=true" width="500" height="320" />
   
